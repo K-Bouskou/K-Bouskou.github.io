@@ -209,50 +209,38 @@ const bigProjects = {
     {
       image: require("./assets/images/Bike-Share.jpg"),
       projectName: "Google Case Study",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "https://github.com/K-Bouskou/K-Bouskou.github.io/tree/main/1-%20Google-Case-Study"
+          name: "Project In Github",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/1-%20Google-Case-Study"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/Austin-Traffic.jpg"),
       projectName: "Austin Traffic Accident",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Project in Github",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/2-%20Austin%20Traffic%20Accident"
         }
       ]
     },
     {
-      image: require("./assets/images/Bike-Share.jpg"),
-      projectName: "Google Case Study",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Chicago-Crime.jpg"),
+      projectName: "Chicago Crime Before & After Covid-19",
+      //projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "https://github.com/K-Bouskou/K-Bouskou.github.io/tree/main/1-%20Google-Case-Study"
+          name: "Project In Github",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/3-%20Chicago%20Crime%20Before%20%26%20After%20Covid-19"
         }
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/Bike-Share.jpg"),
-      projectName: "Google Case Study",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://github.com/K-Bouskou/K-Bouskou.github.io/tree/main/1-%20Google-Case-Study"
-        }
-        //  you can add extra buttons here.
-      ]
-    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
