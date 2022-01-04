@@ -1,47 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d16b29312e58b5442b1666efab9a70d",
+    "revision": "1c159191005d1643b8a699061d57fe51",
     "url": "/index.html"
   },
   {
-    "revision": "f1467120c1949125ccf7",
+    "revision": "b02fa01f9e2e464a848c",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "08124f85392cc521569f",
+    "revision": "9a1a6e212e46b93378b4",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "00e471123846b2d98565",
+    "revision": "858876c4785089bac1ac",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
-    "revision": "a46d862fafb2e33e1aea",
-    "url": "/static/js/2.60c11506.chunk.js"
+    "revision": "6099da15d7ef139536ef",
+    "url": "/static/js/2.3b89ba20.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.60c11506.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3b89ba20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1467120c1949125ccf7",
-    "url": "/static/js/3.eb3ba21e.chunk.js"
+    "revision": "b02fa01f9e2e464a848c",
+    "url": "/static/js/3.6d3a6ac5.chunk.js"
   },
   {
-    "revision": "08124f85392cc521569f",
-    "url": "/static/js/4.221f4606.chunk.js"
+    "revision": "9a1a6e212e46b93378b4",
+    "url": "/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "00e471123846b2d98565",
-    "url": "/static/js/main.19bc3466.chunk.js"
+    "revision": "858876c4785089bac1ac",
+    "url": "/static/js/main.ffc4816e.chunk.js"
   },
   {
-    "revision": "12c0d7bd038831784a29",
-    "url": "/static/js/runtime-main.5c1065cc.js"
+    "revision": "31e86355749aafe4c8bd",
+    "url": "/static/js/runtime-main.216c9345.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "b538754e681bbc9d58bec124ac342910",
+    "url": "/static/media/Austin-Traffic.b538754e.jpg"
+  },
+  {
+    "revision": "85973600e5196753d4bd482dba2c55e2",
+    "url": "/static/media/Chicago-Crime.85973600.jpg"
   },
   {
     "revision": "ebb883c63af8e268300302bfc6cb8d96",
@@ -78,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
