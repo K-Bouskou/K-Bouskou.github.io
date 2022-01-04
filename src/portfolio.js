@@ -17,7 +17,7 @@ const greeting = {
     "Self-driven, quick starter 🚀 passionate data analyst with a curious mind who enjoys solving a complex and challenging real-world problems."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ccbAlvi8g43T7AGQ-8IGpsQ5GY_gr48v/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Fb80zf4FTUAlrtcO6kELnYLTsZT3toqc/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
