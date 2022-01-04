@@ -42,13 +42,10 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY DATA ANALYST WHO WANTS TO ANWSER EVERY REAL WORLD QUESTION",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("⚡ Python Library :   Pandas | Numpy | Plotly | Matplotlib "),
+    emoji("⚡ SQL (Structured Query Langauge) : Microsoft SQL Server | Google BigQuery "),
+    emoji("⚡ Data Aggregation | Cleaning | Calculations | Ethics | Visualization | Structured Thinking"),
+    emoji("⚡ Tools : PowerBi | Tableau | Jupyter Notebook | Github")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
