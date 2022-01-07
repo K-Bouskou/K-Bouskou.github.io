@@ -253,9 +253,9 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "Google Data Analytics Professional Certificate",
-      //subtitle:
-        //"First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/Google_Certs_DA.png"),
+      subtitle:
+        "November 2021 - Present",
+      image: require("./assets/images/Google-logo.jpg"),
       footerLink: [
         {
           name: "Certification",
@@ -265,8 +265,8 @@ const achievementSection = {
     },
     {
       title: "Learning Python (2020)",
-      //subtitle:
-        //"Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      subtitle:
+        "December 2021 - Present",
       image: require("./assets/images/linkedin-learning.png"),
       footerLink: [
         {
