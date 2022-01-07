@@ -255,7 +255,7 @@ const achievementSection = {
       title: "Google Data Analytics Professional Certificate",
       subtitle:
         "November 2021 - Present",
-      image: require("./assets/images/Google-logo.jpg"),
+      image: require("./assets/images/Google-logo.png"),
       footerLink: [
         {
           name: "Certification",
