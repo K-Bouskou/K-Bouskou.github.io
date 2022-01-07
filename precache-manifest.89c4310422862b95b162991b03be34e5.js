@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1e13d3ad85e4d8971069e5fc692f789",
+    "revision": "a504db0b8673565da2bc9c70f139269b",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "cccbee2770da42579ecb",
+    "revision": "3aa8bc4e8a5e0d4fdf84",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "cccbee2770da42579ecb",
-    "url": "/static/js/main.dec091e3.chunk.js"
+    "revision": "3aa8bc4e8a5e0d4fdf84",
+    "url": "/static/js/main.bf6d047f.chunk.js"
   },
   {
     "revision": "31e86355749aafe4c8bd",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Chicago-Crime.85973600.jpg"
   },
   {
-    "revision": "ebb883c63af8e268300302bfc6cb8d96",
-    "url": "/static/media/Google_Certs_DA.ebb883c6.png"
+    "revision": "8b7c91b1b51103b0c23bc055bb79c34c",
+    "url": "/static/media/Google-logo.8b7c91b1.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/harvardLogo.35ef5e91.png"
   },
   {
-    "revision": "7809f4d89a33124b08ec11271760f7b3",
-    "url": "/static/media/linkedin-learning.7809f4d8.png"
+    "revision": "ba6627a6660203499fae0a1eb626a8ab",
+    "url": "/static/media/linkedin-learning.ba6627a6.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",

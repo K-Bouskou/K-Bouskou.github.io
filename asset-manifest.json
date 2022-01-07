@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.66262938.chunk.css",
-    "main.js": "/static/js/main.dec091e3.chunk.js",
-    "main.js.map": "/static/js/main.dec091e3.chunk.js.map",
+    "main.js": "/static/js/main.bf6d047f.chunk.js",
+    "main.js.map": "/static/js/main.bf6d047f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.216c9345.js",
     "runtime-main.js.map": "/static/js/runtime-main.216c9345.js.map",
     "static/js/2.3b89ba20.chunk.js": "/static/js/2.3b89ba20.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.aa2ec175.chunk.js": "/static/js/4.aa2ec175.chunk.js",
     "static/js/4.aa2ec175.chunk.js.map": "/static/js/4.aa2ec175.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.88e9a5d4e89abdc32299f9b6aec924db.js": "/precache-manifest.88e9a5d4e89abdc32299f9b6aec924db.js",
+    "precache-manifest.89c4310422862b95b162991b03be34e5.js": "/precache-manifest.89c4310422862b95b162991b03be34e5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -23,13 +23,13 @@
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Austin-Traffic.jpg": "/static/media/Austin-Traffic.b538754e.jpg",
     "static/media/Chicago-Crime.jpg": "/static/media/Chicago-Crime.85973600.jpg",
-    "static/media/Google_Certs_DA.png": "/static/media/Google_Certs_DA.ebb883c6.png",
+    "static/media/Google-logo.jpg": "/static/media/Google-logo.8b7c91b1.jpg",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
     "static/media/harvardLogo.png": "/static/media/harvardLogo.35ef5e91.png",
-    "static/media/linkedin-learning.png": "/static/media/linkedin-learning.7809f4d8.png",
+    "static/media/linkedin-learning.png": "/static/media/linkedin-learning.ba6627a6.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.216c9345.js",
     "static/js/2.3b89ba20.chunk.js",
     "static/css/main.66262938.chunk.css",
-    "static/js/main.dec091e3.chunk.js"
+    "static/js/main.bf6d047f.chunk.js"
   ]
 }
