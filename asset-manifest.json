@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.66262938.chunk.css",
-    "main.js": "/static/js/main.bf6d047f.chunk.js",
-    "main.js.map": "/static/js/main.bf6d047f.chunk.js.map",
+    "main.js": "/static/js/main.06dd0239.chunk.js",
+    "main.js.map": "/static/js/main.06dd0239.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.216c9345.js",
     "runtime-main.js.map": "/static/js/runtime-main.216c9345.js.map",
     "static/js/2.3b89ba20.chunk.js": "/static/js/2.3b89ba20.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.aa2ec175.chunk.js": "/static/js/4.aa2ec175.chunk.js",
     "static/js/4.aa2ec175.chunk.js.map": "/static/js/4.aa2ec175.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.89c4310422862b95b162991b03be34e5.js": "/precache-manifest.89c4310422862b95b162991b03be34e5.js",
+    "precache-manifest.7217e44601c6cb210fb0cd7b80dd2ee0.js": "/precache-manifest.7217e44601c6cb210fb0cd7b80dd2ee0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -23,7 +23,7 @@
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Austin-Traffic.jpg": "/static/media/Austin-Traffic.b538754e.jpg",
     "static/media/Chicago-Crime.jpg": "/static/media/Chicago-Crime.85973600.jpg",
-    "static/media/Google-logo.jpg": "/static/media/Google-logo.8b7c91b1.jpg",
+    "static/media/Google-logo.png": "/static/media/Google-logo.6ab7b3a8.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.216c9345.js",
     "static/js/2.3b89ba20.chunk.js",
     "static/css/main.66262938.chunk.css",
-    "static/js/main.bf6d047f.chunk.js"
+    "static/js/main.06dd0239.chunk.js"
   ]
 }

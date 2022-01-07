@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a504db0b8673565da2bc9c70f139269b",
+    "revision": "1ef365e8857b60d021179afc32a26c63",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "3aa8bc4e8a5e0d4fdf84",
+    "revision": "0d38fbe2c360166c1020",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "3aa8bc4e8a5e0d4fdf84",
-    "url": "/static/js/main.bf6d047f.chunk.js"
+    "revision": "0d38fbe2c360166c1020",
+    "url": "/static/js/main.06dd0239.chunk.js"
   },
   {
     "revision": "31e86355749aafe4c8bd",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Chicago-Crime.85973600.jpg"
   },
   {
-    "revision": "8b7c91b1b51103b0c23bc055bb79c34c",
-    "url": "/static/media/Google-logo.8b7c91b1.jpg"
+    "revision": "6ab7b3a86ad578a5009ae29369718612",
+    "url": "/static/media/Google-logo.6ab7b3a8.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
