@@ -264,14 +264,14 @@ const achievementSection = {
       ]
     },
     {
-      title: "Learning Python (2020)",
+      title: "Data Science with Python",
       subtitle:
-        "December 2021 - Present",
-      image: require("./assets/images/linkedin-learning.png"),
+        "January  2022 - Present",
+      image: require("./assets/images/Simplilearn Logo.png"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://www.linkedin.com/learning/certificates/5bb78f8e55d16ccfdf639dfe81d3e78cb9ce5e35678612b4d7aa30ed3f4b4bc1"
+          url: "https://certificates.simplicdn.net/share/3160274_1641747921.pdf"
         }
       ]
     },
