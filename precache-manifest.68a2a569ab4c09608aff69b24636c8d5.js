@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ef365e8857b60d021179afc32a26c63",
+    "revision": "0d1c1a97db9efe895af417b548ed23df",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "0d38fbe2c360166c1020",
+    "revision": "12b67561832a851b6ac5",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "0d38fbe2c360166c1020",
-    "url": "/static/js/main.06dd0239.chunk.js"
+    "revision": "12b67561832a851b6ac5",
+    "url": "/static/js/main.5bf7e634.chunk.js"
   },
   {
     "revision": "31e86355749aafe4c8bd",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "35ef5e915631be2c31ccdff55b53db29",
     "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
-    "revision": "ba6627a6660203499fae0a1eb626a8ab",
-    "url": "/static/media/linkedin-learning.ba6627a6.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
