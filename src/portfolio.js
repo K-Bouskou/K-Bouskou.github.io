@@ -40,7 +40,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY DATA ANALYST WHO WANTS TO ANWSER EVERY REAL WORLD QUESTION",
+  subTitle: "CRAZY DATA ANALYST WHO WANTS TO ANWSER REAL WORLD QUESTION",
   skills: [
     emoji("⚡ Python Library :   Pandas | Numpy | Plotly | Matplotlib "),
     emoji("⚡ SQL (Structured Query Langauge) : Microsoft SQL Server | Google BigQuery "),
