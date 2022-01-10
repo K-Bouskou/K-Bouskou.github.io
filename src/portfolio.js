@@ -211,8 +211,23 @@ const bigProjects = {
         {
           name: "Project In Github",
           url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/1-%20Google-Case-Study"
+        },
+        {
+          name: "Project Using Python",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/1-%20Google-Case-Study/Project-Using-Python"
+        },
+        {
+          name: "Project Using R",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/1-%20Google-Case-Study/Project-Using-R"
+        },
+        {
+          name: "Project Using SQL",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/1-%20Google-Case-Study/Project-Using-SQL"
+        },
+        {
+          name: "Visualization",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/1-%20Google-Case-Study/Visualization-Using-PowerBi"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
@@ -221,8 +236,20 @@ const bigProjects = {
       //projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Project in Github",
+          name: "Project In Github",
           url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/2-%20Austin%20Traffic%20Accident"
+        },
+        {
+          name: "Project Using Python",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/2-%20Austin%20Traffic%20Accident/Project-In-Python"
+        },
+        {
+          name: "Project Using SQL",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/2-%20Austin%20Traffic%20Accident/Project-In-SQL"
+        },
+        {
+          name: "Visualization",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/2-%20Austin%20Traffic%20Accident/Visualization%20Using%20PowerBI"
         }
       ]
     },
