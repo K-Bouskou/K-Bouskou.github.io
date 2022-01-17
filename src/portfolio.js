@@ -291,6 +291,18 @@ const achievementSection = {
       ]
     },
     {
+      title: "Data Analysis with Python",
+      subtitle:
+        "January  2022 - Present",
+      image: require("./assets/images/fcc_secondary_large.svg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.freecodecamp.org/certification/k-bouskou/data-analysis-with-python-v7"
+        }
+      ]
+    },
+    {
       title: "Data Science with Python",
       subtitle:
         "January  2022 - Present",
