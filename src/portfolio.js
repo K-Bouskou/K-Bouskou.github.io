@@ -255,7 +255,7 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/Chicago-Crime.jpg"),
-      projectName: "Chicago Crime Before & After Covid-19",
+      projectName: "The Impact of Covid-19 on Crime in Chicago",
       //projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
