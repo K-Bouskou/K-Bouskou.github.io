@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "395db7907382a22d8f8efe23b93efb52",
+    "revision": "da86905d95470088a828cded81d54c1c",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "693402a30eb76c8a9f23",
+    "revision": "2bd79a912f9583b15227",
     "url": "/static/css/main.66262938.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.afe8fb20.chunk.js"
   },
   {
-    "revision": "693402a30eb76c8a9f23",
-    "url": "/static/js/main.123d363b.chunk.js"
+    "revision": "2bd79a912f9583b15227",
+    "url": "/static/js/main.4ac90b9e.chunk.js"
   },
   {
     "revision": "156be3ff15eb2069e10d",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "85973600e5196753d4bd482dba2c55e2",
     "url": "/static/media/Chicago-Crime.85973600.jpg"
+  },
+  {
+    "revision": "cb3ccfb134eeb583cab610518797dcb7",
+    "url": "/static/media/Free-Code-Camp.cb3ccfb1.png"
   },
   {
     "revision": "10588e251874bf5c9655289014073350",
@@ -74,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
     "url": "/static/media/facebookLogo.8ddf76a1.png"
-  },
-  {
-    "revision": "ce48e7740f67af0042f62cbec064d7e9",
-    "url": "/static/media/fcc_secondary_large.ce48e774.svg"
   },
   {
     "revision": "35ef5e915631be2c31ccdff55b53db29",
