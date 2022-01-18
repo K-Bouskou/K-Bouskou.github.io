@@ -294,7 +294,7 @@ const achievementSection = {
       title: "Data Analysis with Python",
       subtitle:
         "January  2022 - Present",
-      image: require("./assets/images/fcc_secondary_large.svg"),
+      image: require("./assets/images/Free-Code-Camp.png"),
       footerLink: [
         {
           name: "Certification",
