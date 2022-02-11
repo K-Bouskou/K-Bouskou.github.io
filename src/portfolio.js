@@ -259,8 +259,12 @@ const bigProjects = {
       //projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Project In Github",
-          url: "https://github.com/K-Bouskou/Project-Portfolio/tree/main/3-%20Chicago%20Crime%20Before%20%26%20After%20Covid-19"
+          name: "Project In Python",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/blob/main/3-%20Chicago%20Crime%20Before%20%26%20After%20Covid-19/Chicago%20Crime.ipynb"
+        },
+        {
+          name: "Project In SQL",
+          url: "https://github.com/K-Bouskou/Project-Portfolio/blob/main/3-%20Chicago%20Crime%20Before%20%26%20After%20Covid-19/Chicago%20Crime%20Before%20%26%20After%20Covid-19.sql"
         }
         //  you can add extra buttons here.
       ]
